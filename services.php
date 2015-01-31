@@ -11,6 +11,9 @@ require_once("includes/includes.php");
 <link href="css/services.css" rel="stylesheet" />
 <script src="js/services.js"></script>
 
+
+    <script></script>
+    
 </head>
 <body onload="bodycontentload()">
 <div id="logocontainer">
