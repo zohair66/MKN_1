@@ -13,7 +13,7 @@ require_once("includes/includes.php");
 
 
     <script></script>
-    
+
 </head>
 <body onload="bodycontentload()">
 <div id="logocontainer">
